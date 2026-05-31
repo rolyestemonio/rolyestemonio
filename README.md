@@ -1,104 +1,122 @@
-# 💫 About Me
+<div align="center">
 
-👋 Hi, I'm **Roly Estemonio** — a Senior WordPress Developer with **14+ years of experience** in WordPress, WooCommerce, Shopify, and PHP development.
+# Roly Estemonio
+### Senior WordPress Developer · Automation Expert · Full-Stack Web Solutions
 
-I specialize in **marketing automation, CRM integrations, and full-stack web solutions** — from converting Figma/PSD designs into blazing-fast WordPress sites, to building complex automation workflows with GoHighLevel, HubSpot, and Zapier.
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-rolyestemonio.website-21759B?style=for-the-badge)](https://rolyestemonio.website)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rolyestemonio)
+[![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r.estemonio@gmail.com)
 
-Known for delivering fast, reliable, and optimized web solutions that drive real business results. I've handled hundreds of website migrations, reduced manual workflows by 60% through automation, and consistently keep Core Web Vitals in the green. 🚀
-
-📌 Portfolio: [rolyestemonio.website](https://rolyestemonio.website)
-
----
-
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/rolyestemonio)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:r.estemonio@gmail.com)
-[![Website](https://img.shields.io/badge/Portfolio-21759B?logo=wordpress&logoColor=white&style=for-the-badge)](https://rolyestemonio.website)
+</div>
 
 ---
 
-## 💻 Tech Stack
+## 👋 About Me
 
-### 🌐 Front-End
-![HTML5](https://skillicons.dev/icons?i=html,css,js,jquery,react)
+I'm a **Senior WordPress Developer** with **14+ years of experience** building fast, scalable, and conversion-focused web solutions for international clients.
 
-### ⚙️ Back-End
-![PHP](https://skillicons.dev/icons?i=php,mysql,laravel,nodejs)
+I bridge the gap between design and performance — converting Figma/PSD mockups into pixel-perfect WordPress sites, automating complex CRM workflows, and managing hundreds of website migrations without downtime.
 
-### 🛠️ CMS & E-Commerce
-![WordPress](https://skillicons.dev/icons?i=wordpress)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?logo=woocommerce&logoColor=white&style=flat-square)
-![Shopify](https://img.shields.io/badge/Shopify-96BF48?logo=shopify&logoColor=white&style=flat-square)
+- 🚀 **14+ years** in WordPress, WooCommerce, Shopify & PHP
+- 🤖 **Marketing automation** with GoHighLevel, HubSpot, Zapier & more
+- ⚡ **60% reduction** in manual workflows through automation
+- 🔁 **Hundreds of migrations** across major hosting platforms
+- 📈 Core Web Vitals optimization & on-page SEO
 
-### 🤖 Automation & CRM Platforms
+---
+
+## 🛠️ Tech Stack
+
+**CMS & E-Commerce**
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Front-End**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Back-End & Databases**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Marketing Automation & CRM**
+
 ![GoHighLevel](https://img.shields.io/badge/GoHighLevel-0FA0CE?style=flat-square&logoColor=white)
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?logo=hubspot&logoColor=white&style=flat-square)
-![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?logo=mailchimp&logoColor=black&style=flat-square)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?logo=zapier&logoColor=white&style=flat-square)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
+![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=flat-square&logo=mailchimp&logoColor=black)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
 ![ActiveCampaign](https://img.shields.io/badge/ActiveCampaign-356AE6?style=flat-square&logoColor=white)
-![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logoColor=white)
-![NetSuite](https://img.shields.io/badge/NetSuite-3A75C4?style=flat-square&logoColor=white)
+![N8N](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
-### ☁️ Hosting & Cloud
-![AWS](https://skillicons.dev/icons?i=aws,cloudflare)
-![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?logo=cpanel&logoColor=white&style=flat-square)
-![WPEngine](https://img.shields.io/badge/WPEngine-40BAC8?style=flat-square&logoColor=white)
+**Hosting & Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
+![WPEngine](https://img.shields.io/badge/WP_Engine-40BAC8?style=flat-square&logoColor=white)
 ![SiteGround](https://img.shields.io/badge/SiteGround-8BC34A?style=flat-square&logoColor=white)
-![GoDaddy](https://img.shields.io/badge/GoDaddy-1BDBDB?logo=godaddy&logoColor=white&style=flat-square)
-![Rocket.net](https://img.shields.io/badge/Rocket.net-FF4438?style=flat-square&logoColor=white)
 
-### 🔍 SEO & Performance
-![Google Search Console](https://img.shields.io/badge/Search_Console-4285F4?logo=google&logoColor=white&style=flat-square)
-![Core Web Vitals](https://img.shields.io/badge/Core_Web_Vitals-34A853?logo=google&logoColor=white&style=flat-square)
+**Design & Tools**
 
-### 🎨 Design & Conversion
-![Figma](https://skillicons.dev/icons?i=figma,canva)
-![Webflow](https://img.shields.io/badge/Webflow-4353FF?logo=webflow&logoColor=white&style=flat-square)
-![ClickFunnels](https://img.shields.io/badge/ClickFunnels-FF6C2C?style=flat-square&logoColor=white)
-
-### 🔧 Version Control & Tools
-![Git](https://skillicons.dev/icons?i=git,github,gitlab)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat-square&logo=webflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-## 🏆 Notable Projects
+## 📌 Notable Projects
 
-### 🛒 E-Commerce Optimization & Development
-Rebuilt and optimized multiple eCommerce websites using **WooCommerce and Shopify** for international clients. Improved performance and conversions through code optimization, caching, and responsive redesign. Configured SMTP delivery via SendGrid/Mailgun for reliable transactional emails.
-
-### 🤖 Marketing Automation & CRM Integration
-Automated landing pages and lead workflows using **HubSpot, ActiveCampaign, GoHighLevel, Mailchimp, Celigo, SyncApps, Zapier, and NetSuite** — reducing manual work by **60%** and syncing websites seamlessly with CRMs and email platforms.
-
-### 🚀 Full Website Migration & Server Management
-Managed **hundreds of website migrations** across GoDaddy, SiteGround, HostGator, WPEngine, AWS, Rocket.net, and Cloudflare — with minimal downtime. Handled DNS, SSL, server tuning, and backup systems.
-
-### 🎨 Website Development & Maintenance
-Converted PSD, Illustrator, Canva, and Figma designs into responsive WordPress websites using **ACF, custom post types, and SEO best practices**. Provided ongoing plugin management, updates, and client support.
+| Project | What I Did | Impact |
+|---|---|---|
+| **E-Commerce Rebuilds** | Rebuilt WooCommerce & Shopify stores with performance optimization, caching, responsive redesign, SMTP via SendGrid/Mailgun | Faster load times · Higher conversion rates |
+| **Marketing Automation** | Automated lead workflows with HubSpot, GHL, ActiveCampaign, Mailchimp, Zapier, NetSuite, Celigo & SyncApps | **60% reduction** in manual work |
+| **Mass Website Migrations** | Hundreds of migrations across GoDaddy, SiteGround, WPEngine, AWS, Rocket.net & Cloudflare | Near-zero downtime · Full DNS/SSL/backup setup |
+| **Design-to-WordPress** | Converted PSD, Figma & Canva designs into responsive WordPress sites using ACF & custom post types | Pixel-perfect builds · SEO-ready from day one |
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rolyestemonio&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=true)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=rolyestemonio&theme=ambient_gradient&hide_border=false)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rolyestemonio&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rolyestemonio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rolyestemonio&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
+
+</div>
 
 ---
 
 ## 🎓 Education & Certifications
 
-🎓 **BS Information Technology** — STI College, Dipolog City *(April 2009)*
+🎓 **BS Information Technology** — STI College, Dipolog City *(2009)*
 
-📜 Certifications:
-- WordPress Essential Training — *Lynda*
-- Advanced PHP & MySQL Development — *Lynda*
-- SEO for Beginners — *Lynda*
-- Email Marketing Automation with HubSpot — *HubSpot Academy*
-- Laravel Essential Training — *LinkedIn Learning*
-- Building a Website with Laravel, React.js, and Inertia — *LinkedIn Learning*
+| Certification | Platform |
+|---|---|
+| WordPress Essential Training | Lynda |
+| Advanced PHP & MySQL Development | Lynda |
+| SEO for Beginners | Lynda |
+| Email Marketing Automation with HubSpot | HubSpot Academy |
+| Laravel Essential Training | LinkedIn Learning |
+| Building a Website with Laravel, React.js & Inertia | LinkedIn Learning |
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=rolyestemonio&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+
+*Open to freelance projects and full-time remote opportunities.*
+
+[![Portfolio](https://img.shields.io/badge/View_My_Work-rolyestemonio.website-21759B?style=for-the-badge)](https://rolyestemonio.website)
+
+</div>
