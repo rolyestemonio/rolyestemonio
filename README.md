@@ -4,7 +4,7 @@
 ### Senior WordPress Developer · Automation Expert · Full-Stack Web Solutions
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-rolyestemonio.website-21759B?style=for-the-badge)](https://rolyestemonio.website)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rolyestemonio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roly-estemonio)
 [![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r.estemonio@gmail.com)
 
 </div>
@@ -41,11 +41,14 @@ I bridge the gap between design and performance — converting Figma/PSD mockups
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
 
 **Back-End & Databases**
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Marketing Automation & CRM**
@@ -90,9 +93,12 @@ I bridge the gap between design and performance — converting Figma/PSD mockups
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rolyestemonio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rolyestemonio&theme=tokyonight)](https://github.com/rolyestemonio)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rolyestemonio&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rolyestemonio&theme=tokyonight)](https://github.com/rolyestemonio)
+[![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rolyestemonio&theme=tokyonight)](https://github.com/rolyestemonio)
+
+[![Streak](https://streak-stats.demolab.com?user=rolyestemonio&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/rolyestemonio)
 
 </div>
 
